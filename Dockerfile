@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="beb899f7-5819-40f5-8110-b56765c1357c"
-ARG CADDYIndexPage="https://github.com/bradtraversy/loruki-website/archive/master.zip"
+ARG AUUID="b072f62b-5990-4228-93f8-354f93d22951"
+ARG CADDYIndexPage="https://github.com/PavelDoGreat/WebGL-Fluid-Simulation/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
