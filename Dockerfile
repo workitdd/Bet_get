@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="857cbfa0-1b13-4fac-9baa-34c68cbe2940"
-ARG CADDYIndexPage="https://github.com/flexdinesh/dev-landing-page/archive/master.zip"
+ARG AUUID="924a5375-4cb5-4b98-85d7-9175821d166b"
+ARG CADDYIndexPage="https://github.com/ripienaar/free-for-dev/archive/master.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
